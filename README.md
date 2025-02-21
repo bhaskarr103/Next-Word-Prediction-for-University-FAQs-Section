@@ -1,6 +1,5 @@
 # Next-Word-Prediction-for-University-FAQs-Section
 
-# Next Word Prediction using LSTM
 
 This repository contains a deep learning model implemented in PyTorch for next-word prediction using an LSTM-based neural network. The model is trained on a tokenized dataset, where input sequences predict the next word in a sentence.
 
@@ -47,5 +46,7 @@ pip install torch numpy
 | LSTM Cell State Shape | (1, 32, 150) | LSTM's final cell state for learning long-term dependencies. |
 | Output Layer Shape | (32, 356) | Final prediction layer (batch size × vocab size). |
 
+
+![Image](https://github.com/user-attachments/assets/1fdeaa7f-4b67-4fda-9b5b-82539ef088db)
 
 
