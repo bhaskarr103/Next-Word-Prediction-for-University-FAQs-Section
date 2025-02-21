@@ -49,4 +49,10 @@ pip install torch numpy
 
 ![Image](https://github.com/user-attachments/assets/1fdeaa7f-4b67-4fda-9b5b-82539ef088db)
 
+## LSTM Class & Prediction
+
+![Image](https://github.com/user-attachments/assets/67a1d327-ea8b-4808-b018-53643e3189a4)
+
+![Image](https://github.com/user-attachments/assets/21f79fde-d68a-4cea-84b6-268bf02b8983)
+
 
